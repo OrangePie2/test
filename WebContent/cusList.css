@@ -1,0 +1,23 @@
+#wrap{
+	width: 971px;
+	margin:0;
+	margin-left: auto;
+	margin-right: auto;
+}
+h1{
+	color : white;/* 글색상 */
+}
+table{
+	width:100%;
+	border-collapse: collapse;
+	font-size:12px;/* 글꼴크기 */
+	line-height:24px;/* 줄간격 */
+}
+table td,th{
+	border: white; /* 경계선 색상 스타일 굵기 */
+	padding: 5px; /* 안쪽여백 */
+}
+th{
+	background: puple;/* 배경색 */
+}
+
